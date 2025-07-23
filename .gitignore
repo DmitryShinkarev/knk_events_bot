@@ -1,0 +1,58 @@
+ # Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtualenv
+venv/
+.venv/
+ENV/
+
+# Environment
+.env
+.env.*
+
+# Databases
+*.db
+*.sqlite3
+events.db
+
+# Logs
+*.log
+bot.log
+
+# Docker
+pgdata/
+*.pid
+
+# System
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Test
+.coverage
+htmlcov/
+
+# Other
+*.swp
+*.swo
+
+
+.qodo
+
+.env
+
+bot.log
+
+.idea/
+
+.vscode/
+
+.pytest_cache/
+
+.coverage

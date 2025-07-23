@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9
+pytest==8.2.0
+backoff==2.2.1 
+flake8==7.0.0
+isort==5.13.2
+black==24.4.2 
